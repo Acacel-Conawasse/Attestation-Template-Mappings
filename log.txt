@@ -1,12 +1,6 @@
 Successfully created BVMC-CIS-4000050406
 Successfully created BVMC-Escort Msg Svcs-4000450401
-Successfully created BVMC-Escort Msg Svcs-4000450401
 Successfully created BVMC-CIS-4000050406
-Successfully created BVMC-Central Sterile Proc-4000450400
-Successfully created BVMC-Central Sterile Proc-4000450400
-Successfully created BVMC-Escort Msg Svcs-4000450401
-Successfully created BVMC-Outpatient Clinical-4000650306
-Successfully created BVMC-Outpatient Clinical-4000650306
 Successfully created BVMC-Central Sterile Proc-4000450400
 Successfully created BVMC-Escort Msg Svcs-4000450401
 Successfully created BVMC-Outpatient Clinical-4000650306
